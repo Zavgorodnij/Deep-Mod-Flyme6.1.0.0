@@ -1,6 +1,6 @@
 {
     "version": "1.0.0.2",
-    "link": "m3n/dm_azure/module2.zip",
+    "link": "m3n/dm_azure/package.zip",
     "changelog": "Второй модуль! \n П.С читайте до конца! \n \n Интегрированы: \n \n -Google camera \n -Nova Launcher, Tesla Undread \n -Gapps \n -Google keyboard \n -SHAREit \n -Шагомер Flyme \n \n Добавлена: \n \n -Пак обоев \т -Новая бутанимация \n -Звуки интерфейса из Android O \n -Рингтоны \n -Hosts для блокировки рекламы \n \n Фиксы: \n \n -Видимость в шторке стандартного плэера \n -Баг с входящим вызовом \n \n Новый стиль: \n \n -Пункт Батарея в настройках \n -Окно с информацией о приложении \n \n \n \n Первый модуль будет снова доступен завтра в 14:00"
 
 }
