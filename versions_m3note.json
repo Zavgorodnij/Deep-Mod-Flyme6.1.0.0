@@ -1,5 +1,5 @@
 {
     "version": "1.0.0.2",
-    "link": "module2/package2.zip",
-    "changelog": "Второй модуль! "
+    "link": "module2/module3.zip",
+    "changelog": "Третий модуль. \n Фикс рингтонов. "
 }
